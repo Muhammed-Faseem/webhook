@@ -4,4 +4,7 @@ echo 'Testing.<br>';
 
 echo 'Edited through filemanager';
 test1
+
+
+test1234
 ?>
