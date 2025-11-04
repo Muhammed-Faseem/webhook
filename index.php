@@ -3,5 +3,5 @@
 echo 'Testing.<br>';
 
 echo 'Edited through filemanager'
-test22
+test1
 ?>
