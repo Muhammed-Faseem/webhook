@@ -2,6 +2,6 @@
 
 echo 'Testing.<br>';
 
-echo 'Edited through filemanager'
+echo 'Edited through filemanager';
 test1
 ?>
